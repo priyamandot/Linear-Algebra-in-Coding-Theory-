@@ -1,7 +1,9 @@
 ## Exploring Coding Theory With Linear Algebra
 
 **Abstract:**
+
 Coding theory, a vital field in mathematics, focuses on the design and analysis of error-correcting codes, crucial for ensuring reliable data transmission and storage.This project delves into the intricate relationship between coding theory and linear algebra, showcasing how linear algebraic techniques are harnessed to construct efficient error-correcting codes.
+
 **Topics Covered:**
 1. Introduction to Coding Theory
 2. Linear Codes
